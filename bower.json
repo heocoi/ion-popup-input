@@ -1,0 +1,27 @@
+{
+  "name": "ion-popup-input",
+  "authors": [
+    "heocoi <dev.hibiki@gmail.com>"
+  ],
+  "description": "Popup input for ionic framework (v1)",
+  "main": [
+      "release/ionPopupInput.min.js"
+  ],
+  "keywords": [
+    "ionic",
+    "popup",
+    "input",
+    "cordova",
+    "phonegap"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/heocoi/ion-popup-input",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
